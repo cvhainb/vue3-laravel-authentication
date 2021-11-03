@@ -6,7 +6,7 @@
                     <div class="d-flex justify-content-center py-4">
                         <router-link to="/" class="logo d-flex align-items-center w-auto text-decoration-none">
                             <img src="assets/img/logo.png" alt="">
-                            <span class="d-none d-lg-block">MCFeede</span>
+                            <span class="d-none d-lg-block">MCFeede2</span>
                         </router-link>
                     </div><!-- End Logo -->
                     
